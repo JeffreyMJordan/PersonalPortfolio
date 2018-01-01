@@ -201,8 +201,10 @@
    display: block;
    position: relative;
    overflow: hidden;
-   max-width: 530px;
-   margin: auto auto 1rem; }
+   max-width: 100%;
+   margin: auto auto 1rem; 
+   border: 2px solid black
+  }
    .portfolio-item .caption {
      display: flex;
      height: 100%;
