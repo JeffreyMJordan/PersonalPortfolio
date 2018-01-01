@@ -56,10 +56,10 @@
     focus: '#username',
     modal: true
   });
-  $(document).on('click', '.portfolio-modal-dismiss', function(e) {
-    e.preventDefault();
-    $.magnificPopup.close();
-  });
+  // $(document).on('click', '.portfolio-modal-dismiss', function(e) {
+  //   // e.preventDefault();
+  //   // $.magnificPopup.close();
+  // });
 
   // Floating label headings for the contact form
   $(function() {
