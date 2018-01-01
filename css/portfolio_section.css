@@ -216,7 +216,7 @@
        color: #fff;
        margin: auto 2rem 2rem; }
        .portfolio-item .caption .caption-content h2 {
-         font-size: 0.8rem;
+         font-size: 1rem;
          text-transform: uppercase; }
        .portfolio-item .caption .caption-content p {
          font-weight: 300;
@@ -300,6 +300,14 @@
    color: #ecb807 !important; }
 
   .caption-content, .caption{
-    background: rgba(0, 0, 0, 0.541);
+    background: rgba(0, 0, 0, 0.74);
+    padding: 20px;
   }
  
+  .portfolio-title{
+    font-size: 30px;
+  }
+
+  .mb-0{
+    font-family: serif;
+  }
