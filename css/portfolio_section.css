@@ -298,4 +298,8 @@
  
  .text-secondary {
    color: #ecb807 !important; }
+
+  .caption-content, .caption{
+    background: rgba(0, 0, 0, 0.541);
+  }
  

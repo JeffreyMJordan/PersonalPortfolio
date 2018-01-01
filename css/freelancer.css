@@ -14,6 +14,11 @@
   margin-bottom: 2.5rem;
  }
 
+ .portfolio-img{
+   max-width: 100%;
+   height: 350px;
+ }
+
 body {
   font-family: 'Lato'; }
 
