@@ -313,3 +313,11 @@
   .mb-0{
     font-family: serif;
   }
+
+  .contact-info{
+    list-style: none;
+    font-family: sans-serif;
+    margin-top: 10px;
+    font-size: 25px;
+    margin-left: 120px;
+  }
